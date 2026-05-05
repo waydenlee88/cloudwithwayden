@@ -6,7 +6,7 @@
 ### Microsoft Support Engineer · Cloud with Wayden
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/waydenlee)
-[![GitHub followers](https://img.shields.io/github/followers/cloudwithwayden?style=flat&logo=github&label=Follow)](https://github.com/waydenlee88)
+[![GitHub followers](https://img.shields.io/github/followers/cloudwithwayden?style=flat&logo=github&label=Follow)](https://github.com/waydenlee88/cloudwithwayden)
 
 
 
