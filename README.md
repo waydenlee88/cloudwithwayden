@@ -73,7 +73,7 @@ This GitHub is my **public learning journal** — beginner-first, practical, and
 
 | Repo | What it is | Level |
 |------|-----------|-------|
-| [azure-beginners-lab](https://github.comwaydenlee88/azure-beginners-lab) | 8 hands-on Azure labs — free tier, zero experience needed | 🟢 Beginner |
+| [azure-beginners-lab](https://github.com/waydenlee88/azure-beginners-lab) | 8 hands-on Azure labs — free tier, zero experience needed | 🟢 Beginner |
 | [azure-cost-tracker](https://github.com/waydenlee88/azure-cost-tracker) | Budget alerts so you never get a surprise Azure bill | 🟢 Beginner |
 | [aks-hello-world-complete](https://github.com/waydenlee88/aks-hello-world-complete) | First Kubernetes app on AKS, fully explained | 🟡 Intermediate |
 | [azure-openai-support-bot](https://github.com/waydenlee88/azure-openai-support-bot) | AI chatbot that reads your own docs with Azure OpenAI | 🟡 Intermediate |
